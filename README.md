@@ -1,2 +1,2 @@
-# Singlepageapp
+# JavaScriptSinglepageapp
 Javascript Single page app
